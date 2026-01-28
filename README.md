@@ -16,6 +16,7 @@ The algorithms run on the following hardcoded graph structure:
     4. —  3. — 5.
     |  \  |  /
     7.    6.
+```
     
 ## Features 
 
@@ -45,15 +46,19 @@ Input Data: The program will ask you to enter 8 integers (or strings) to label t
 ## Example Output
 
 Enter an integer number: A
-... (input for 8 nodes) ...
+* ... (input for 8 nodes) ...
 
 Start Node: A
 -------------------------------------
+
 Breadth-First Search (BFS) Result:
 A -> B -> C -> E -> D -> F -> H -> G
+
 -------------------------------------
+
 Depth-First Search (DFS) Result:
 A -> B -> E -> D -> C -> F -> G -> H
+
 *************************************
 
 ## Tech Stack
