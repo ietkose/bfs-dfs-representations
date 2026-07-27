@@ -53,8 +53,7 @@ python bfs_dfs.py
 ### 🕸️ Example Output
 ```text
 Plaintext
-Enter value for node 0: A
-Enter value for node 1: B
+Enter an integer number (maximum 8 numbers): A
 ... (Input for 8 nodes) ...
 ```
 ```text
@@ -116,8 +115,7 @@ python bfs_dfs.py
 ### 🕸️ Örnek Çıktı
 ```text
 Plaintext
-0. Düğüm için değer giriniz: A
-1. Düğüm için değer giriniz: B
+Bir değer giriniz (maksimum 8 sayı): A
 ... (8 düğüm için de değer girilir) ...
 ```
 ```text
@@ -133,3 +131,9 @@ A -> B -> E -> D -> C -> F -> G -> H
 
 ### 🕸️ Lisans
 Bu proje MIT lisansı altında lisanslanmıştır.
+
+.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖.✦ ݁˖
+
+## Sample Image / Örnek Görsel
+
+<img width="1458" height="744" alt="Ekran görüntüsü 2026-07-27 124705" src="https://github.com/user-attachments/assets/4ca45637-be30-4047-a2bf-bfa405aa9bb6" />
